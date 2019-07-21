@@ -1,5 +1,5 @@
 package com.spring.boot.topic;
-
+//this is the been class
 public class Topic {
 	private String id;
 	private String name;
